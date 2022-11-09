@@ -12,3 +12,4 @@ A simple elections webapp with blockchain
 - Access `http://localhost:8080/magic/generate/owner` to generate owners
 - Run docker compose to initialize sawtooth `docker-compose -f sawtooth-default.yaml up`
 - Install node deps and run blockchain server in `./app/blockchain-api` - `npm i && node index.js`
+- Access login page `http://localhost:8080/login`. User `teste@gmail.com` Pass `123456`
